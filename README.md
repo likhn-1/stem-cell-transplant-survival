@@ -1,6 +1,6 @@
 # Hematopoietic Stem Cell Transplant Survival Analysis
 
-## Group Project 
+Group Project 
 
 ## Overview
 This project analyzes data from patients who underwent hematopoietic stem cell transplant (HSCT) and predicts survival outcomes using a clinical dataset containing detailed patient information and associated variables.
